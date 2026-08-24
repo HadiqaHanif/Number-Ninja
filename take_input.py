@@ -6,3 +6,4 @@ def user_input():
             return number
         except ValueError:
             print("Invalid Input. Try Again!")
+# All code in other file
